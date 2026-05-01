@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login with valid credentials.\nError message shows invalid session.\nOccurs on both mobile and web.",
+    "customer": "Rahim Uddin",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-04-10T09:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed",
+    "description": "Transaction failed during checkout.\nPayment gateway not responding.\nUser charged but order not confirmed.",
+    "customer": "Karim Hasan",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-04-11T11:15:00Z"
+  },
+  {
+    "id": 3,
+    "title": "UI Bug on Dashboard",
+    "description": "Alignment issue in dashboard widgets.\nButtons overlap on smaller screens.\nAffects usability of admin panel.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-04-12T14:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Slow Loading",
+    "description": "App takes too long to load.\nInitial API response is delayed.\nHappens during peak hours.",
+    "customer": "Sabbir Ahmed",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2026-04-13T08:20:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Email Not Sending",
+    "description": "System not sending verification emails.\nSMTP server may be misconfigured.\nUsers unable to verify accounts.",
+    "customer": "Fatema Akter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-04-14T16:10:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Password Reset Issue",
+    "description": "Reset link not working.\nToken expires too quickly.\nUsers unable to reset passwords.",
+    "customer": "Tanvir Islam",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-04-15T10:05:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Profile Update Error",
+    "description": "Error while updating profile info.\nForm submission fails silently.\nData not saved to database.",
+    "customer": "Mim Rahman",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-04-16T12:30:00Z"
+  },
+  {
+    "id": 8,
+    "title": "App Crash",
+    "description": "Application crashes on startup.\nOccurs after latest update.\nAffects Android devices mostly.",
+    "customer": "Jahid Khan",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-04-17T07:50:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Notification Delay",
+    "description": "Push notifications are delayed.\nMessages arrive minutes late.\nIssue seen in iOS devices.",
+    "customer": "Lamia Sultana",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-04-18T15:25:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Search Not Working",
+    "description": "Search results not showing.\nAPI returns empty array.\nKeywords not matching correctly.",
+    "customer": "Rakib Hossain",
+    "priority": "High",
+    "status": "Closed",
+    "createdAt": "2026-04-19T09:40:00Z"
+  },
+  {
+    "id": 11,
+    "title": "File Upload Failed",
+    "description": "Unable to upload files.\nServer returns 413 error.\nFile size limit may be exceeded.",
+    "customer": "Shila Akter",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-04-20T13:10:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Logout Issue",
+    "description": "User stays logged in after logout.\nSession not destroyed properly.\nSecurity risk for shared devices.",
+    "customer": "Imran Ali",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2026-04-21T18:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Data Sync Problem",
+    "description": "Data not syncing across devices.\nChanges not reflected instantly.\nSync service may be down.",
+    "customer": "Sadia Noor",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-04-22T11:55:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Broken Link",
+    "description": "Some links lead to 404 page.\nIncorrect routing configuration.\nAffects navigation experience.",
+    "customer": "Arif Chowdhury",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-04-23T14:35:00Z"
+  }
+]
