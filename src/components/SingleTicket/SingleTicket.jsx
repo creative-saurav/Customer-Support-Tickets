@@ -17,7 +17,7 @@ const SingleTicket = ({ticket, setSelectTickets}) => {
                 return [...prev, ticketData]
               }
           });
-           toast.info("Ticket in  Progress");
+           toast.info("Ticket in  Progress!");
       }
 
     

@@ -12,7 +12,7 @@ const Tickets = ({fetchPromises, setSelectTickets, selectTickets,resolvedTickets
     
     setSelectTickets(remaining);
     setResolvedTickets((current) => [...current, ticketData]);
-    toast.success("Ticket Completed");
+    toast.success("Ticket Completed !");
     };
     
     
@@ -25,7 +25,6 @@ const Tickets = ({fetchPromises, setSelectTickets, selectTickets,resolvedTickets
 
                             <div className="grid grid-cols-2 gap-4">
 
-                            
                             {
                                tickets.filter((ticket) => !resolvedTickets.some((r) => r.id === ticket.id))
                                     .map((ticket) => (
